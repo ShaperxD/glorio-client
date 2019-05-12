@@ -781,9 +781,9 @@
                 "gold": 500
             },
             "radius": 28,
-            "name": "Ball",
+            "name": "Ball,",
             "description": "For football fans",
-            "limit": 1
+            "limit": 1000000000
         }
     }
 }
